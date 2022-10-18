@@ -1,0 +1,17 @@
+{
+  "name": "anxebtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "anxeb-node": "^2.1.9",
+    "axios": "^1.1.3",
+    "dotenv": "^16.0.3"
+  }
+}
